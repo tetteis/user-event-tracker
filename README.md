@@ -7,7 +7,7 @@ This Python script tracks user login and logout events on machines and generates
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/your-username/user-event-tracker.git
+   git clone https://github.com/tetteis/user-event-tracker.git
    ```
 
 2. Navigate to the Directory
